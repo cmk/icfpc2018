@@ -1,5 +1,7 @@
 # ICFPC2018
-Team Unagi's repository for ICFPC 2018
+Team Unagi's repository for ICFPC 2018.
+
+Task description: https://icfpcontest2018.github.io/full/task-description.html
 
 
 ## Members
